@@ -1,7 +1,8 @@
 # # UAS-Project-PBO
 ## Dibuat oleh: Nanda Ratna Sari (312110327)
 
-## Link Youtub Penjelasan Project
+## Link Youtube Penjelasan Project
+https://youtu.be/Pc6Jk0XXoTg
 
 
 
@@ -32,7 +33,7 @@ Contoh sebuah project Java yang menerapkan konsep PBO atau OOP
 
 #### Selanjutnya ada beberapa ketentuan sebagai berikut :
 <br>
-*  Data mahasiswa yang ditampilkan akan berdasarkan kode unik yang dimasukan yaitu NIM mahasiswa. Jika NIM dimasukkan kemudian di klik cari makan mahasiswa dengan dim tersebut datanya akan tampil di Interface.
+*  Data mahasiswa yang ditampilkan akan berdasarkan kode unik yang dimasukan yaitu NIM mahasiswa. Jika NIM dimasukkan kemudian di klik cari maka mahasiswa dengan nim tersebut datanya akan tampil di Interface.
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/115931288/212538411-b29c8911-16e1-4c18-8685-0f258341af65.png)
 
