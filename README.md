@@ -19,9 +19,7 @@ Contoh sebuah project Java yang menerapkan konsep PBO atau OOP
 
 ## Class Diagram
 
-
-
-
+![Screenshot (24)](https://user-images.githubusercontent.com/115931288/212538411-b29c8911-16e1-4c18-8685-0f258341af65.png)
 
 #### Setiap Mahasiswa memiliki data meliputi :
 <br>
